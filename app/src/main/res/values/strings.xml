@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fretboard Practice</string>
+    <string name="generate">Generate</string>
+    <string name="placeholder">Text</string>
+    <string name="strings">Strings</string>
+    <string name="string1">String 1</string>
+    <string name="string2">String 2</string>
+    <string name="string3">String 3</string>
+    <string name="string4">String 4</string>
+    <string name="string5">String 5</string>
+    <string name="string6">String 6</string>
+    <string name="all_strings">All Strings/None</string>
+    <string name="reset">Reset</string>
+    <string name="at_string">At String</string>
+</resources>

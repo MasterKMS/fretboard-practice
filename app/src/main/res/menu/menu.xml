@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/string_group">
+        <item
+            android:id="@+id/string1"
+            android:title="@string/string1"
+            android:checkable="true"/>
+        <item
+            android:id="@+id/string2"
+            android:title="@string/string2"
+            android:checkable="true"/>
+        <item
+            android:id="@+id/string3"
+            android:title="@string/string3"
+            android:checkable="true"/>
+        <item
+            android:id="@+id/string4"
+            android:title="@string/string4"
+            android:checkable="true"/>
+        <item
+            android:id="@+id/string5"
+            android:title="@string/string5"
+            android:checkable="true"/>
+        <item
+            android:id="@+id/string6"
+            android:title="@string/string6"
+            android:checkable="true"/>
+    </group>
+    <item
+        android:id="@+id/all_none"
+        android:title="@string/all_strings" />
+</menu>
